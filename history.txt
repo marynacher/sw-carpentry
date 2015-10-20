@@ -1,0 +1,142 @@
+    1  знерщт --мукишщт
+    2  python --version
+    3  $ python swc-installation-test-1.py
+    4  $ python swc-installation-test-1.py
+    5  Passed
+    6  /Users/UFA/anaconda/bin/ipython_mac.command ; exit;
+    7  $ python swc-installation-test-1.py
+    8  yay
+    9  whoami
+   10  whereami
+   11  pwd
+   12  ls
+   13  ls -a
+   14  ls -l
+   15  ls -al
+   16  clear
+   17  man
+   18  -a
+   19  clear
+   20  h
+   21  clear
+   22  man ls
+   23  man ls
+   24  man ls
+   25  ls
+   26  ls /
+   27  ls /usr/ls /usr/clear
+   28  ls /usr/ ls /Users/ ls /sbin/
+   29  ls /Users/
+   30  ls /
+   31  ls /UF
+   32  ls /
+   33  ls /Users/UFA
+   34  ls Documents
+   35  ls Documents/
+   36  clear
+   37  pwd
+   38  ls
+   39  clear
+   40  ls Documents/
+   41  ls Dropbox/
+   42  ls 
+   43  ls ownCloud/
+   44  ls -al
+   45  ls .
+   46  ls ..
+   47  ls ...
+   48  clear
+   49  ls
+   50  ls .
+   51  ls ..
+   52  ls ..
+   53  ls ../
+   54  ls ../Guest
+   55  ls ../Guest/Documents/
+   56  ls
+   57  ls ../UFA/ownCloud/
+   58  ls ../
+   59  ls ../UFA/
+   60  ls ..pwd
+   61  pwd
+   62  ls .
+   63  ls ./
+   64  ls ../
+   65  cd ownCloud/Sea/
+   66  ls
+   67  ls ../
+   68  pwd
+   69  pwd
+   70  cd /
+   71  pwd
+   72  ls
+   73  cd Users/UFA/
+   74  pwd
+   75  cd ~
+   76  cd ~
+   77  pwd
+   78  cd Desktop/
+   79  pwd
+   80  ls
+   81  root@tecmint:~# telnet towel.blinkenlights.nl
+   82  root@tecmint:~# telnet towel.blinkenlights.nl
+   83  clear
+   84  pwd
+   85  ls
+   86  8/2
+   87  clear
+   88  pwd
+   89  ls
+   90  mkdir SoftwareCarpentry
+   91  cd SoftwareCarpentry/
+   92  pwd
+   93  mkdir Terminal Testing
+   94  ls
+   95  mkdir TerminalTesting
+   96  cd TerminalTesting/
+   97  pwd
+   98  nano Important_Ideas
+   99* ls 
+  100  nano Important_Ideas
+  101  pwd
+  102  ls
+  103  cat
+  104  cat Important_Ideas 
+  105  man cat
+  106  cat -n Important_Ideas 
+  107  cp Important_Ideas ../
+  108  ls
+  109  ls ../
+  110  pwd
+  111  cd ..
+  112  pwd
+  113  rm TermonalTesting
+  114  rm TerminalTesting
+  115  rm -r TerminalTesting/
+  116  ls
+  117  rm -r T*
+  118  ls
+  119  ls
+  120  cp Important_Ideas Important_Ideas.txt
+  121  mv Important_Ideas Important_Ideas.txt 
+  122  ls
+  123  curl -L -O http://bit.ly/1ylW533 
+  124  ls
+  125  cat 1ylW533 
+  126  head
+  127  head 1ylW533 
+  128  head -4 1ylW533 
+  129  tail 1ylW533 
+  130  mv 1ylW533 MobyDick.txt
+  131  ls
+  132  grep whale MobyDick.txt
+  133  grep -n whale MobyDick.txt
+  134  grep  whale MobyDick.txt
+  135  wc whale MobyDick.txt
+  136  man ls
+  137  man wc
+  138  wc MobyDick.txt > MobyDickCount.txt
+  139  ls
+  140  cat MobyDickCount.txt 
+  141  history
+  142  history > history.txt
